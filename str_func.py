@@ -7,3 +7,8 @@ def upper_(word):
 
 def title_(word):
     return word.title()
+
+
+def foo():
+    """Что-то было изменено"""
+    pass
